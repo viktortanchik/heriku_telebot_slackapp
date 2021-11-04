@@ -1,0 +1,6 @@
+sqlite3
+time
+Telethon
+slackclient
+pathlib
+python-dotenv
